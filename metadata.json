@@ -1,0 +1,6 @@
+{
+  "name": "Nairabox Location-Based Discovery Prototype",
+  "description": "Interactive event and movie discovery prototype for Nairabox with granular Nigerian state & neighbourhood filtering and structured location search.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
